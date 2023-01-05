@@ -1,4 +1,4 @@
-#Instructions:
+# Instructions:
 
 1.Computer(OS) has generated a random number.
 
